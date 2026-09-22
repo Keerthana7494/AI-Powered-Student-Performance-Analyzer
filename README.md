@@ -730,56 +730,56 @@ Screenshots of the application will be added here.
 
 ## Landing Page
 
-![Landing Page](Output_Screenshots/1-LandingPage.png)
+![Landing Page](Output_ScreenShots/1-LandingPage.png)
 
 ## SignUp
 
-![SignUp](Output_Screenshots/2-SignUp.png)
+![SignUp](Output_ScreenShots/2-SignUp.png)
 
 ## Login
 
-![Login](Output_Screenshots/3-Login.png)
+![Login](Output_ScreenShots/3-Login.png)
 
 ## ForgotPassword
 
-![ForgotPassword](Output_Screenshots/4-ForgotPassword.png)
+![ForgotPassword](Output_ScreenShots/4-ForgotPassword.png)
 
 ## CreateNewPassword
 
-![CreateNewPassword](Output_Screenshots/5-CreateNewPassword.png)
+![CreateNewPassword](Output_ScreenShots/5-CreateNewPassword.png)
 
 ## ResetPassword
 
-![ResetPassword](Output_Screenshots/6-ResetPassword.png)
+![ResetPassword](Output_ScreenShots/6-ResetPassword.png)
 
 ## Authenticated
 
-![Authenticated](Output_Screenshots/7-Authentication.png)
+![Authenticated](Output_ScreenShots/7-Authentication.png)
 
 ## Dashboard
 
-![Dashboard](Output_Screenshots/8-Dashboard.png)
+![Dashboard](Output_ScreenShots/8-Dashboard.png)
 
 ## Student Management
 
-![Student Management](Output_Screenshots/9-AddStudents.png)
+![Student Management](Output_ScreenShots/9-AddStudents.png)
 
 ## Student List
 
-![Student List](Output_Screenshots/StudentList.png)
+![Student List](Output_ScreenShots/StudentList.png)
 
 ## Add Performance
 
-![Add Performance](Output_Screenshots/10-AddPerformance.png)
+![Add Performance](Output_ScreenShots/10-AddPerformance.png)
 
 
 ## AI Recommendation
 
-![AI Recommendation](Output_Screenshots/11-AI_Recommendation.png)
+![AI Recommendation](Output_ScreenShots/11-AI_Recommendation.png)
 
 ## Logout
 
-![Logout](Output_Screenshots/12-Logout.png)
+![Logout](Output_ScreenShots/12-Logout.png)
 
 
 
